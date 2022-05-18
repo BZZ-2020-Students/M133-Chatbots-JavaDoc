@@ -1,7 +1,10 @@
 unnamed package
 dev.zwazel.chatbots
 dev.zwazel.chatbots.authentication
+dev.zwazel.chatbots.classes.dao
 dev.zwazel.chatbots.classes.enums
 dev.zwazel.chatbots.classes.model
 dev.zwazel.chatbots.configs
+dev.zwazel.chatbots.interfaces
 dev.zwazel.chatbots.services
+dev.zwazel.chatbots.util
